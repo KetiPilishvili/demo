@@ -149,6 +149,7 @@ h1 {
 }
 .article-box{
 	display: flex;
+	padding-top: 90px;
 	padding-bottom: 25px;
 }
 .my-article {
@@ -173,6 +174,7 @@ h3 {
 	display: flex;
 	justify-content: center;
 	white-space: nowrap;
+
 }
 .text-item{
 	display: flex;
